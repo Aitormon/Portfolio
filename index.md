@@ -25,7 +25,7 @@
 	font-size:11.0pt;
 	font-family:"Arial",sans-serif;}
 h1
-	{mso-style-link:"Título 1 Car";
+	{mso-style-link:"TÃ­tulo 1 Car";
 	margin-top:0cm;
 	margin-right:0cm;
 	margin-bottom:12.0pt;
@@ -36,7 +36,7 @@ h1
 	color:white;
 	text-transform:uppercase;}
 h2
-	{mso-style-link:"Título 2 Car";
+	{mso-style-link:"TÃ­tulo 2 Car";
 	margin-top:0cm;
 	margin-right:0cm;
 	margin-bottom:6.0pt;
@@ -55,7 +55,7 @@ p.MsoHeader, li.MsoHeader, div.MsoHeader
 	font-size:11.0pt;
 	font-family:"Arial",sans-serif;}
 p.MsoFooter, li.MsoFooter, div.MsoFooter
-	{mso-style-link:"Pie de página Car";
+	{mso-style-link:"Pie de pÃ¡gina Car";
 	margin-top:0cm;
 	margin-right:0cm;
 	margin-bottom:10.0pt;
@@ -73,7 +73,7 @@ p.MsoListBullet, li.MsoListBullet, div.MsoListBullet
 	font-size:11.0pt;
 	font-family:"Arial",sans-serif;}
 p.MsoTitle, li.MsoTitle, div.MsoTitle
-	{mso-style-link:"Título Car";
+	{mso-style-link:"TÃ­tulo Car";
 	margin-top:12.0pt;
 	margin-right:0cm;
 	margin-bottom:10.0pt;
@@ -96,7 +96,7 @@ p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
 	font-family:"Arial",sans-serif;
 	color:white;}
 p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
-	{mso-style-link:"Subtítulo Car";
+	{mso-style-link:"SubtÃ­tulo Car";
 	margin-top:0cm;
 	margin-right:0cm;
 	margin-bottom:10.0pt;
@@ -143,8 +143,8 @@ p.MsoQuote, li.MsoQuote, div.MsoQuote
 	color:black;
 	font-style:italic;}
 span.Ttulo1Car
-	{mso-style-name:"Título 1 Car";
-	mso-style-link:"Título 1";
+	{mso-style-name:"TÃ­tulo 1 Car";
+	mso-style-link:"TÃ­tulo 1";
 	font-family:"Arial",sans-serif;
 	color:white;
 	text-transform:uppercase;
@@ -155,8 +155,8 @@ span.TextoindependienteCar
 	font-family:"Arial",sans-serif;
 	color:white;}
 span.Ttulo2Car
-	{mso-style-name:"Título 2 Car";
-	mso-style-link:"Título 2";
+	{mso-style-name:"TÃ­tulo 2 Car";
+	mso-style-link:"TÃ­tulo 2";
 	font-family:"Arial",sans-serif;
 	color:white;
 	font-weight:bold;}
@@ -165,19 +165,19 @@ span.EncabezadoCar
 	mso-style-link:Encabezado;
 	font-family:"Arial",sans-serif;}
 span.PiedepginaCar
-	{mso-style-name:"Pie de página Car";
-	mso-style-link:"Pie de página";
+	{mso-style-name:"Pie de pÃ¡gina Car";
+	mso-style-link:"Pie de pÃ¡gina";
 	font-family:"Arial",sans-serif;}
 span.TtuloCar
-	{mso-style-name:"Título Car";
-	mso-style-link:Título;
+	{mso-style-name:"TÃ­tulo Car";
+	mso-style-link:TÃ­tulo;
 	font-family:"Arial",sans-serif;
 	color:white;
 	text-transform:uppercase;
 	font-weight:bold;}
 span.SubttuloCar
-	{mso-style-name:"Subtítulo Car";
-	mso-style-link:Subtítulo;
+	{mso-style-name:"SubtÃ­tulo Car";
+	mso-style-link:SubtÃ­tulo;
 	font-family:"Arial",sans-serif;
 	color:white;}
 span.TextodegloboCar
@@ -191,7 +191,7 @@ span.CitaCar
 	color:white;
 	font-style:italic;}
 p.Tabladeprrafo, li.Tabladeprrafo, div.Tabladeprrafo
-	{mso-style-name:"Tabla de párrafo";
+	{mso-style-name:"Tabla de pÃ¡rrafo";
 	margin-top:0cm;
 	margin-right:0cm;
 	margin-bottom:10.0pt;
@@ -212,7 +212,7 @@ p.Sitioweb, li.Sitioweb, div.Sitioweb
 	color:#F12A2F;
 	text-decoration:underline;}
 p.Ttulo1Alt, li.Ttulo1Alt, div.Ttulo1Alt
-	{mso-style-name:"Título 1 Alt";
+	{mso-style-name:"TÃ­tulo 1 Alt";
 	margin-top:0cm;
 	margin-right:0cm;
 	margin-bottom:12.0pt;
@@ -224,7 +224,7 @@ p.Ttulo1Alt, li.Ttulo1Alt, div.Ttulo1Alt
 	text-transform:uppercase;
 	font-weight:bold;}
 p.Ttulo2Alt, li.Ttulo2Alt, div.Ttulo2Alt
-	{mso-style-name:"Título 2 Alt";
+	{mso-style-name:"TÃ­tulo 2 Alt";
 	margin-top:0cm;
 	margin-right:0cm;
 	margin-bottom:6.0pt;
@@ -235,7 +235,7 @@ p.Ttulo2Alt, li.Ttulo2Alt, div.Ttulo2Alt
 	color:#453A76;
 	font-weight:bold;}
 p.Ttulo1Alt2, li.Ttulo1Alt2, div.Ttulo1Alt2
-	{mso-style-name:"Título 1 Alt2";
+	{mso-style-name:"TÃ­tulo 1 Alt2";
 	margin-top:0cm;
 	margin-right:0cm;
 	margin-bottom:12.0pt;
@@ -247,7 +247,7 @@ p.Ttulo1Alt2, li.Ttulo1Alt2, div.Ttulo1Alt2
 	text-transform:uppercase;
 	font-weight:bold;}
 p.Ttulo2Alt2, li.Ttulo2Alt2, div.Ttulo2Alt2
-	{mso-style-name:"Título 2 Alt2";
+	{mso-style-name:"TÃ­tulo 2 Alt2";
 	margin-top:0cm;
 	margin-right:0cm;
 	margin-bottom:6.0pt;
@@ -258,7 +258,7 @@ p.Ttulo2Alt2, li.Ttulo2Alt2, div.Ttulo2Alt2
 	color:#F12A2F;
 	font-weight:bold;}
 p.Vietas, li.Vietas, div.Vietas
-	{mso-style-name:Viñetas;
+	{mso-style-name:ViÃ±etas;
 	margin-top:8.65pt;
 	margin-right:0cm;
 	margin-bottom:10.0pt;
@@ -280,7 +280,7 @@ p.Normalsobrefondooscuro, li.Normalsobrefondooscuro, div.Normalsobrefondooscuro
 	font-family:"Arial",sans-serif;
 	color:white;}
 p.Informacindecontacto, li.Informacindecontacto, div.Informacindecontacto
-	{mso-style-name:"Información de contacto";
+	{mso-style-name:"InformaciÃ³n de contacto";
 	margin:0cm;
 	margin-bottom:.0001pt;
 	text-autospace:none;
@@ -288,7 +288,7 @@ p.Informacindecontacto, li.Informacindecontacto, div.Informacindecontacto
 	font-family:"Arial",sans-serif;
 	color:white;}
 span.Mencinsinresolver1
-	{mso-style-name:"Mención sin resolver1";
+	{mso-style-name:"MenciÃ³n sin resolver1";
 	color:gray;
 	background:#E6E6E6;}
 .MsoChpDefault
@@ -323,7 +323,7 @@ ul
   style='position:absolute;left:-36px;top:-22px;width:1332px;height:842px'><img
   width=1327 height=700 src="PORTFOLIO_archivos/image001.png"></span></span><img
   width=36 height=36 id="Forma libre 3" src="PORTFOLIO_archivos/image002.png"
-  alt="Descripción: Descripción: Énfasis de icono"></p>
+  alt="DescripciÃ³n: DescripciÃ³n: Ã‰nfasis de icono"></p>
   </td>
   <td width=114 valign=top style='width:85.25pt;padding:0cm 5.4pt 0cm 5.4pt;
   height:196.9pt'>
@@ -333,7 +333,7 @@ ul
   height:196.9pt'>
   <p class=Tabladeprrafo><img width=36 height=36 id="AutoShape 4"
   src="PORTFOLIO_archivos/image002.png"
-  alt="Descripción: Descripción: Énfasis de icono"></p>
+  alt="DescripciÃ³n: DescripciÃ³n: Ã‰nfasis de icono"></p>
   </td>
   <td width=114 valign=top style='width:85.25pt;padding:0cm 5.4pt 0cm 5.4pt;
   height:196.9pt'>
@@ -355,15 +355,15 @@ ul
   0cm'>DEVELOPER AND DESIGNER</h1>
   <p class=Normalsobrefondooscuro style='margin-bottom:6.0pt;line-height:115%'><span
   class=MsoPlaceholderText><span style='color:white'>Especialista en desarrollo
-  y diseño de aplicaciones y videojuegos.</span></span></p>
+  y diseÃ±o de aplicaciones y videojuegos.</span></span></p>
   <p class=Normalsobrefondooscuro><span class=MsoPlaceholderText><span
-  style='color:white'>C#   .Net Framework    Modelado 3D</span></span></p>
+  style='color:white'>C#Â Â  .Net FrameworkÂ Â Â  Modelado 3D</span></span></p>
   <p class=Normalsobrefondooscuro><span class=MsoPlaceholderText><span
-  style='color:white'>Diseño de escenarios   Animación de personajes</span></span></p>
+  style='color:white'>DiseÃ±o de escenariosÂ Â  AnimaciÃ³n de personajes</span></span></p>
   <p class=Normalsobrefondooscuro><span class=MsoPlaceholderText><span
-  style='color:white'>Retoque Fotográfico     Unity 3D</span></span></p>
+  style='color:white'>Retoque FotogrÃ¡ficoÂ Â Â Â  Unity 3D</span></span></p>
   <p class=Normalsobrefondooscuro><span class=MsoPlaceholderText><span
-  style='color:white'>Android   Windows</span></span></p>
+  style='color:white'>AndroidÂ Â  Windows</span></span></p>
   <p class=Normalsobrefondooscuro>&nbsp;</p>
   </td>
   <td width=114 valign=top style='width:85.25pt;padding:0cm 5.4pt 0cm 5.4pt;
@@ -374,7 +374,7 @@ ul
   height:187.65pt'>
   <h1 style='margin-top:6.0pt'><span class=MsoPlaceholderText><span
   style='color:white'>Contacto</span></span></h1>
-  <p class=Informacindecontacto>640277884 – 944102430</p>
+  <p class=Informacindecontacto>640277884 Â– 944102430</p>
   <p class=Informacindecontacto>&nbsp;</p>
   <p class=Informacindecontacto>Bilbao</p>
   <p class=Informacindecontacto>&nbsp;</p>
@@ -394,7 +394,7 @@ ul
   <p class=MsoTitle align=left style='text-align:left'><i><span
   style='font-size:10.0pt;color:windowtext'>&nbsp;</span></i></p>
   <p class=MsoTitle align=left style='text-align:left'><i><span
-  style='font-size:22.0pt;font-family:"Times New Roman",serif;color:windowtext'>     Aitor Montalban</span></i></p>
+  style='font-size:22.0pt;font-family:"Times New Roman",serif;color:windowtext'>Â     Aitor Montalban</span></i></p>
   <div style='border:none;border-top:solid white 3.0pt;padding:4.0pt 0cm 0cm 0cm'>
   <p class=MsoSubtitle><span style='position: absolute; z-index: 251658240; left: 939px; margin-left: 60px; margin-top: 73px; width: 154px; height: 45px; top: 392px;'><img
   width=153 height=43 src="PORTFOLIO_archivos/image004.jpg"></span><b><span
